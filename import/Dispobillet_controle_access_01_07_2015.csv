@@ -1,0 +1,26 @@
+;Libelle;Code;
+Mode d'obtention;Vente Directe;M
+;Envoi;E
+;Retrait Magasin;R
+Support de billet;Thermique;TH
+Categorie Client;Normal;0
+Genre de Zone;DEBOUT;D1
+Type de tarif;Forfait 1 jour;16
+
+;Titre;Code
+Manifestation;FESTIVAL YZEURES'N'ROCK;YNR15
+
+;Date
+Seance;2015-07-31 18:00:00
+
+Mouvement;
+Tri;Vente/Remboursement;Date mouvement;Mode d'obtention;Support de billet;Type de tarif;Catégorie client;Type bloc;Genre zone;Code bloc;Nom;Prénom;Code postal;Pays;N° fiscal;Code barre;Accès;N° rang;Siège;Type siège;Type Billet;Réseau distributeur;Identifiant du support;Prix de vente
+1;V;2015-04-08 13:06:12;M;TH;16;0;NN;D1;DEBOU;Nigon;Fabio;37310;FR;B1542328756;99423287506605;;;;--;B;PSF;;19.8
+2;V;2015-04-21 19:37:54;E;TH;16;0;NN;D1;DEBOU;FERNETTE;stephane;37130;FR;B1543891791;99438917971249;;;;--;B;PSF;;19.8
+3;V;2015-04-21 19:37:54;E;TH;16;0;NN;D1;DEBOU;FERNETTE;stephane;37130;FR;B1543891792;99438917982835;;;;--;B;PSF;;19.8
+4;V;2015-04-21 19:37:54;E;TH;16;0;NN;D1;DEBOU;FERNETTE;stephane;37130;FR;B1543891793;99438917933375;;;;--;B;PSF;;19.8
+5;V;2015-04-24 16:31:50;M;TH;16;0;NN;D1;DEBOU;MOREAU;MAELLE;37000;FR;B1544223070;99442230730857;;;;--;B;PSF;;19.8
+6;V;2015-05-04 22:09:09;R;TH;16;0;NN;D1;DEBOU;TOUZÉ;Jean-Michel;45470;FR;B1545517354;99455173564772;;;;--;B;PSF;;19.8
+7;V;2015-06-12 14:49:12;M;TH;16;0;NN;D1;DEBOU;surbier;dimitri;37320;FR;B1549777737;99497777387254;;;;--;B;PSF;;19.8
+
+
